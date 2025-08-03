@@ -8,3 +8,7 @@ function fibonacci(n) {
 }
 console.log(fibonacci(6));
 
+//time coplex city
+//2^n
+//very bad
+//to improve that we use dynamic programming
