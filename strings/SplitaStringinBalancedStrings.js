@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {number}
  */
+//1221
 var balancedStringSplit = function (s) {
     let lcount = 0, rcount = 0,count = 0;
 
